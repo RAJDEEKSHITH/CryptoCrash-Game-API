@@ -2,8 +2,7 @@
 
 This document describes the REST API endpoints of the Crypto Crash game backend server. The server manages user registration, buying cryptocurrencies, placing bets, cashing out, and wallet retrieval.
 
-Base URL for all APIs:  
-`http://localhost:5000/api`
+Base URL for all APIs:  https://cryptocrash-game-api.onrender.com
 
 ## 1. Register User
 
