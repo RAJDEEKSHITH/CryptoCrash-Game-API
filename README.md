@@ -1,5 +1,3 @@
-Certainly! Here's a well-structured **README** file for your backend API based on the data and endpoint examples you provided. This README explains all the key API endpoints with request/response formats to help users or developers understand how to interact with your crypto crash backend.
-
 # Crypto Crash Game Backend API Documentation
 
 This document describes the REST API endpoints of the Crypto Crash game backend server. The server manages user registration, buying cryptocurrencies, placing bets, cashing out, and wallet retrieval.
