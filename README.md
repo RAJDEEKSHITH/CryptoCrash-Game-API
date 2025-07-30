@@ -186,15 +186,6 @@ Cash out the current bet to secure profits before the crash.
 
 - Cryptocurrency prices are fetched live and cached internally.
 
-- Use WebSocket (Socket.io) for real-time updates on multiplier and round events (not covered in this README).
+- Used WebSocket (Socket.io) for real-time updates on multiplier and round events (not covered in this README).
 
-# How to Run
 
-1. Start MongoDB locally or remotely.
-2. Configure `.env` with `MONGO_URI` pointing to your MongoDB database.
-3. Run the backend server with Node.js (e.g., `node server.js`).
-4. Use the above REST API endpoints to interact with the game backend.
-
-If you need help with the frontend code or WebSocket real-time interactions, please refer to the frontend documentation or ask for assistance.
-
-This README should help developers or testers understand and use your backend API effectively. Let me know if you want it in markdown file format or with extra sections!
